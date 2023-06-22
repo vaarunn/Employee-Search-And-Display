@@ -21,4 +21,5 @@ A simple React Application to search and display the employees.
 
 ## ScreenShots
 
-![employee](https://github.com/vaarunn/Employee-Search-And-Display/assets/122664469/b697932b-eb98-46e2-93fb-66093c2744a0)
+![employee](https://github.com/vaarunn/Employee-Search-And-Display/assets/122664469/0e4a9889-31e2-4413-a02a-87c76fd7a904)
+
