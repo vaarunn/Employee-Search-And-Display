@@ -28,7 +28,7 @@ const Users = () => {
             setSearch(e.target.value);
           }}
           placeholder="search for employees here..."
-          className="outline-none border-black border rounded-xl p-2"
+          className="outline-none border-black border rounded-xl p-2 lg:w-[350px]"
         />
       </div>
       {users
